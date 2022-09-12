@@ -17,11 +17,11 @@
     <li>Multer</li>
 </ul>
 
-<h2>For this project, we will make a web application to manage the notes of  students of an Institution</h2>
+<h3>For this project, we will make a web application to manage the notes of  students of an Institution</h3>
 
 <p>Ther is some essential steps:</p>
 <ol>
     <li>
-        <h2>Create folders and files</h2>
+        <h5>Create folders and files</h5>
     </li>
 </ol>
